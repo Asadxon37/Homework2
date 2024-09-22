@@ -24,5 +24,6 @@ int main() {
   else if(g=='F'&&a>=1.75) {
     cout<<"Tall"<<endl;
   }
+
     return 0;
   }
